@@ -1,0 +1,16 @@
+.hero{
+    display: flex;
+    align-items: center;
+
+    h2{
+        color: red;
+    }
+
+    .card{
+        border: 1px solid black;
+
+       h3{
+        color: blueviolet;
+       }
+    }
+}

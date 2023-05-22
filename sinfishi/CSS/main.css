@@ -1,0 +1,13 @@
+.hero {
+  display: flex;
+  align-items: center;
+}
+.hero h2 {
+  color: red;
+}
+.hero .card {
+  border: 1px solid black;
+}
+.hero .card h3 {
+  color: blueviolet;
+}/*# sourceMappingURL=main.css.map */
